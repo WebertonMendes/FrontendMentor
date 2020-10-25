@@ -9,7 +9,7 @@
 ### Tela da Aplicação
 
 > ArticlePreviewComponent
-![]()<br>
+![](https://github.com/WebertonMendes/FrontendMentor/blob/master/ArticlePreviewComponent/screen/ArticlePreviewComponent1.png?raw=true)<br>
 
 > ArticlePreviewComponent ShareButton
-![]()<br>
+![](https://github.com/WebertonMendes/FrontendMentor/blob/master/ArticlePreviewComponent/screen/ArticlePreviewComponent2.png?raw=true)<br>
